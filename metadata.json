@@ -1,0 +1,6 @@
+{
+  "name": "TeenVerseHub",
+  "description": "Youth-focused creator marketplace and SkillSwap platform empowering young creators with Skill Quests, Creator Passports, and SkillMatch AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
